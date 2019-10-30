@@ -52,3 +52,7 @@ return
 >+m:: Send m
 return
 
+;Toggles the title bar of a window
+#t::
+WinSet, Style, ^0xC00000, A
+return 
