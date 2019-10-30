@@ -1,0 +1,54 @@
+;Promotes right typing techniques
+<+q:: Send q
+return
+<+w:: Send w
+return
+<+e:: Send e
+return
+<+r:: Send r
+return
+<+t:: Send t
+return
+<+a:: Send a
+return
+<+s:: Send s
+return
+<+d:: Send d
+return
+<+f:: Send f
+return
+<+g:: Send g
+return
+<+z:: Send z
+return
+<+x:: Send x
+return
+<+c:: Send c
+return
+<+v:: Send v
+return
+<+b:: Send b
+return
+>+y:: Send y
+return
+>+u:: Send u
+return
+>+i:: Send i
+return
+>+o:: Send o
+return
+>+p:: Send p
+return
+>+h:: Send h
+return
+>+j:: Send j
+return
+>+k:: Send k
+return
+>+l:: Send l
+return
+>+n:: Send n
+return
+>+m:: Send m
+return
+
